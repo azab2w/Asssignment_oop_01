@@ -22,7 +22,6 @@ class Program
     }
 }
 #endregion
-
 #region Q2
 public struct Person
 {
@@ -56,8 +55,6 @@ class Program
 }
 
 #endregion
-
-
 #region Q3
 
 enum Seasons
@@ -102,8 +99,6 @@ class Program
 }
 
 #endregion
-
-
 #region Q4
 enum Colors
 {
@@ -130,10 +125,7 @@ class Program
     }
 }
 #endregion
-
 #region Q6
-using System;
-
 struct Person
 {
     public string Name;
